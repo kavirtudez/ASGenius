@@ -4,7 +4,8 @@
 
 **ESGenius** is an intelligent ESG (Environmental, Social, and Governance) report analysis platform that streamlines validation and compliance for sustainability professionals. Built for high-stakes transparency and aligned with China's 2060 carbon neutrality vision, ESGenius empowers analysts, auditors, and investors to quickly detect greenwashing, validate ESG claims, and accelerate impact.
 
-![ESGenius Dashboard](https://i.imgur.com/example.png)
+![image](https://github.com/user-attachments/assets/0efde8c0-54f9-4c3b-a3b1-54c4a4a40f11)
+
 
 ---
 
