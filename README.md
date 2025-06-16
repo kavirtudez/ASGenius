@@ -42,7 +42,7 @@
 
 ## 🧠 AI Integration
 
-### Gemini 1.5 Flash
+### Gemini 2.5 Pro
 
 Gemini scans ESG reports to:
 
@@ -50,7 +50,7 @@ Gemini scans ESG reports to:
 * Identify Environmental, Social, and Governance issue categories
 * Extract report metadata and claimed ESG frameworks
 
-### DeepSeek (via OpenRouter)
+### DeepSeek R1 (via OpenRouter)
 
 Use the built-in chatbot to:
 
