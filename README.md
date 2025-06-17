@@ -13,7 +13,7 @@
 ## 🌟 Features
 
 * 📄 **PDF Upload & Management**: Easily upload, organize, and access ESG reports
-* 🤖 **AI-Powered Greenwashing Detection**: Uncover vague, unsupported, or misleading sustainability claims
+* 🤖 **AI-Powered Greenwashing Detection (Gemini)**: Uncover vague, unsupported, or misleading sustainability claims
 * 🔍 **Interactive PDF Viewer**: Seamless report navigation with full-text search
 * 🚩 **Flagged Statement Highlighting**: One-click access to concerning content with ESG category and rationale
 * 💬 **Intelligent Chatbot (DeepSeek)**: Ask contextual questions, get real-time insights and section summaries
@@ -34,8 +34,8 @@
 * **PDF Processing**: PDF.js for client-side rendering & extraction
 * **AI Models**:
 
-  * **Gemini 1.5 Flash** — ESG analysis and greenwashing detection
-  * **DeepSeek** — Conversational ESG report assistant via OpenRouter
+  * **Gemini 2.5 Pro** — ESG analysis and greenwashing detection
+  * **DeepSeek R1** — Conversational ESG report assistant via OpenRouter
 * **Storage**: LocalStorage for user preferences, Server-side storage for reports
 
 ---
