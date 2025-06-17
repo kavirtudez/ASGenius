@@ -149,7 +149,7 @@ npm run dev
    * "Is the carbon neutrality claim supported?"
    * "Summarize the environmental section"
    * "What ESG category does this issue fall under?"
-3. Chat is multilingual, so Chinese conversations are easily possible.
+3. Chat is multilingual, so Chinese or Malay conversations are easily possible.
 
 ![AI Chat](chat.png)
 
