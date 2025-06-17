@@ -13,7 +13,7 @@
 ## 🌟 Features
 
 * 📄 **PDF Upload & Management**: Easily upload, organize, and access ESG reports
-* 🤖 **AI-Powered Greenwashing Detection (Gemini)**: Uncover vague, unsupported, or misleading sustainability claims
+* 🤖 **AI-Powered Greenwashing Detection**: Uncover vague, unsupported, or misleading sustainability claims
 * 🔍 **Interactive PDF Viewer**: Seamless report navigation with full-text search
 * 🚩 **Flagged Statement Highlighting**: One-click access to concerning content with ESG category and rationale
 * 💬 **Intelligent Chatbot (DeepSeek)**: Ask contextual questions, get real-time insights and section summaries
